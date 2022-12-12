@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnChristianIdul
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML, CSS, Python and Javascript.
+- 
 - 💞️ I’m a college freshman with computer science as my course.
 
 <!---
