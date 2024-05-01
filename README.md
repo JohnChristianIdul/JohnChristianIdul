@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JohnChristianIdul
-- 👀 I’m interested in coding.
-- 💞️ I’m a college student with computer science as my course.
+- 👋 Hi, I’m JohnChristianIdul
+- Aspiring Software/Data Engineer.
 
 <!---
 JohnChristianIdul/JohnChristianIdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
